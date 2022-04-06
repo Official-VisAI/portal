@@ -20,7 +20,7 @@ Depends, pick a platform and send us a message!
 - [Facebook](https://www.facebook.com/VisualisticAI)
 - [Telegram](https://t.me/VisFoundation_bot)
 - [Email](mailto:support@visfoundation.net)
-- Live Chat (Coming Soon)
+- [Live Chat](https://visualistic-studios-unreal.rocket.chat/livechat) (Currently a dedicated page, coming soon to the whole [VisAI website](https://www.ai.vis-foundation.com)!)
 
 ## How can I keep up with News?
 
